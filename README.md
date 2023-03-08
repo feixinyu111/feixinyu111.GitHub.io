@@ -3,7 +3,7 @@
 1.去下面这个网址下载安装Visual Studio
 https://visualstudio.microsoft.com/zh-hans/downloads/
 打开Visual Studio Installer选择Community(社区版)的Visual Studio去安装。
-feixinyu111/images/1.png
+[feixinyu111/images/1.png](https://github.com/feixinyu111/feixinyu111.GitHub.io/blob/main/images/1.png)
 2.在“工作负荷”模块选择自己需要的包，如果这个时候还不知道自己需要什么，等需要的时候再打开“Visual Studio Installer”再下载就行。
 
 3.“单个组件”和“语言包”这样勾选。
